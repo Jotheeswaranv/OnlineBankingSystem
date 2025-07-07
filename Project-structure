@@ -1,0 +1,10 @@
+/admin
+  └── dashboard/
+  └── user-management/
+/customer
+  └── login/
+  └── transactions/
+/utils
+  └── auth/
+  └── security/
+/config
