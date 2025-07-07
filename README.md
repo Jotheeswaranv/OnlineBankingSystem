@@ -1,4 +1,4 @@
-💳 Smart Banking System
+# Smart Banking System
 The Smart Banking System is an advanced, secure, and user-friendly digital banking platform designed to meet the modern demands of financial institutions and their customers. It offers role-based access for administrators and users, real-time monitoring, high-end security, and seamless performance across devices.
 
 🔐 Key Features
